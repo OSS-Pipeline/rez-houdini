@@ -1,3 +1,4 @@
-# rez-houdini
+rez-houdini
+===
 
 Rez build configuration for SideFX Houdini.
